@@ -14,3 +14,7 @@ This is a simple number guessing game implemented in HTML and JavaScript. The ga
 ## File Structure
 - `index.html`: Contains the HTML structure of the game.
 - `script.js`: Contains the JavaScript code that implements the game logic.
+
+## License
+
+This project is licensed under the MIT License.
