@@ -3,6 +3,9 @@
 ## Description
 This is a simple number guessing game implemented in HTML and JavaScript. The game randomly generates a number between 1 - 100 and prompts the user to guess the number. It provides feedback if the guessed number is too high or too low and congratulates the user upon guessing the correct number.
 
+## Live Demo
+[View the live project here!](https://laibatariq110.github.io/Number-Guessing-Game)
+
 ## How to Play
 1. Open the `index.html` file in your web browser.
 2. A prompt will ask you to guess a number between the specified range.
@@ -14,7 +17,3 @@ This is a simple number guessing game implemented in HTML and JavaScript. The ga
 ## File Structure
 - `index.html`: Contains the HTML structure of the game.
 - `script.js`: Contains the JavaScript code that implements the game logic.
-
-## License
-
-This project is licensed under the MIT License.
